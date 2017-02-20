@@ -1,4 +1,0 @@
-name,bus,cost curve equation
-1,1,20P + .025P^2
-2,2,25P + .05P^2
-3,3,40P + .01P^2x
